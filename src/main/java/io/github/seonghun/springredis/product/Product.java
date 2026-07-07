@@ -1,4 +1,4 @@
-package io.github.seonghun.springredis;
+package io.github.seonghun.springredis.product;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

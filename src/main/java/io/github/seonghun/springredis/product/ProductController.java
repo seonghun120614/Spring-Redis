@@ -1,4 +1,4 @@
-package io.github.seonghun.springredis;
+package io.github.seonghun.springredis.product;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
